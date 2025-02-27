@@ -1,0 +1,9 @@
+### GET
+GET http://localhost:8000/api/profile/
+Content-Type: application/json
+Authorization: token f3623f762b8adfee94ed1b3e24f7e968b41c423d
+
+### Response
+
+
+GET http://localhost:8000/api/profile/?format=json
